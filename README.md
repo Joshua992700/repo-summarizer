@@ -1,6 +1,6 @@
 # Repo Summarizer
 
-A hackathon-ready tool that summarizes GitHub repositories using Go for fast parsing and Python for AI-powered summarization.
+A readymade tool that summarizes GitHub repositories using Go for fast parsing and Python for AI-powered summarization.
 
 ## Architecture
 
