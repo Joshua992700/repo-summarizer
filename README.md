@@ -91,4 +91,4 @@ Response:
 
 ## License
 
-MIT - Built for hackathons!
+MIT - Built for Developers!

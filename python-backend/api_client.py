@@ -1,7 +1,3 @@
-"""
-API Client for the Go Parser Service.
-"""
-
 import os
 import requests
 from typing import Dict, Optional
@@ -10,8 +6,6 @@ from dataclasses import dataclass
 
 @dataclass
 class RepoData:
-    """Represents parsed repository data."""
-
     repo_name: str
     files: list
     error: Optional[str] = None
